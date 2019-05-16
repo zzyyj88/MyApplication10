@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="label_add1">+1 point</string>
+    <string name="lable_add2">+2 point</string>
+    <string name="label_add3">+3 point</string>
+    <string name="lable_add4">Reset</string>
+    <string name="rmb_hint">input RMB</string>
+    <string name="btn_dollar_label1">Dollar</string>
+    <string name="btn_euro_label2">Euro</string>
+    <string name="btn_won_label3">Won</string>
+    <string name="btn_opencfg_label">config</string>
+    <string name="btn_save_label">save</string>
+    <string name="menu_set_label">setting</string>
+    <string name="label_open_list">Openlist</string>
+</resources>
